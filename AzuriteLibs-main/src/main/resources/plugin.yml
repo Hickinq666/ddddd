@@ -1,0 +1,6 @@
+name: test
+main: plugin.TestPlugin
+author: keqno
+version: 1.0
+soft-depend:
+  - 'Apollo-Bukkit'
